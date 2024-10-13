@@ -7,4 +7,4 @@ A valid key needs to be added to the apps constants file in order for it to work
 
 #### App Description ####
 
-This app is a basic weather app. The user an select from a group of predefined cities and get both the current forecast as well as a 5-day forecast for the selected city. It includes icons that map to the weather type, as well as information on temperature, wind, etc.
+This app is a basic weather app. The user can select from a group of predefined cities and get both the current forecast as well as a 5-day forecast for the selected city. It includes icons that map to the weather type, as well as information on temperature, wind, etc.
